@@ -1,5 +1,8 @@
 # Bank-Customer-Churn-Analysis
 
+## Business Problem 
+- **Retail banks lose significant revenue from customer attrition. This project analyzes customer demographics and behavior to identify high-risk groups and recommend targeted retention strategies.**
+
 ## 🎯 Project Overview
 - **Analyzed customer churn patterns using SQL and Tableau**
 - **Identified demographic and behavioral factors associated with customer attrition**
