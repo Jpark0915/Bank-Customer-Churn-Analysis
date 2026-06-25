@@ -1,6 +1,6 @@
 # Bank-Customer-Churn-Analysis
 
-## Business Problem 
+##   Business Problem 
 - **Retail banks lose significant revenue from customer attrition. This project analyzes customer demographics and behavior to identify high-risk groups and recommend targeted retention strategies.**
 
 ## 🎯 Project Overview
