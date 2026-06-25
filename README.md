@@ -14,7 +14,7 @@
 
 ## Dashboard Preview
 
-![Bank Customer Churn Dashboard]
+![Bank Customer Churn Dashboard](TableauChurnDashboard.png)
 
 ## 📊 Key Findings
 - **Germany had the highest churn rate (32.44%)**
