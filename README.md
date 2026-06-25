@@ -12,6 +12,10 @@
 - **10,000 customer records**
 - **Variables included geography, age, account balance, activity status, and churn status**
 
+## Dashboard Preview
+
+![Bank Customer Churn Dashboard]
+
 ## 📊 Key Findings
 - **Germany had the highest churn rate (32.44%)**
 - **Customers aged 50+ churned at significantly higher rates**
